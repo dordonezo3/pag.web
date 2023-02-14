@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>QUE SOMOS LOS SERES HUMANOS</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <p class="logo">Seamos más humanos☺❤</p>
+            <nav>
+                <a href="#somos-proya">Los seres humanos somos</a>
+                <a href="#nuestros-programas">En que se diferencian los seres humanos de los animales</a>
+                <a href="#caracteristicas">Que nos hace humanos</a>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <h1>Todos somos seres humanos,<br>ser humano es opcional </h1>
+        <button>EMPECEMOS</button>
+    </section>
+
+    <section id="somos-proya">
+        <div class="container">
+            <div class="img-container"></div>
+            <div class="texto">
+
+                <h2>Que son las personas? <span class="color-acento">-Seamos más humanos☺❤</span></h2>
+                <p>
+                    Los valores son los principios, virtudes o cualidades que caracterizan a una persona o una acción, y que se consideran positivos o de gran importancia para un grupo social</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="nuestros-programas">
+        <div class="container">
+            <h2>Valores que nos hacen humanos</h2>
+            <div class="programas">
+                <div class="carta">
+                    <h3>Humildad</h3>
+                    <p>La humildad es una virtud humana atribuida a quien ha desarrollado conciencia de sus propias limitaciones y debilidades, y obra en consecuencia. La humildad es un valor opuesto a la soberbia.</p>
+                    <form action="https://youtu.be/xFP8Z1G6FfI"> 
+                        <button>link</button>
+                    </form>
+                </div>
+                <div class="carta">
+                    <h3>Caridad</h3>
+                    <p> Es la actitud de quien obra desinteresadamente, en favor del prójimo, sin esperar nada a cambio. Como tal, puede entenderse como sinónimo de altruismo, filantropía, generosidad o solidaridad.</p>
+                    <form action="https://youtu.be/nuZR4aJRpDY">
+                        <button>link</button>
+                    </form> 
+                </div>
+                <div class="carta">
+                    <h3>Respeto</h3>
+                    <p>El respeto es un valor y una cualidad positiva que se refiere a la acción de respetar; es equivalente a tener veneración, aprecio y reconocimiento por una persona o cosa.</p>
+
+                    <form action="https://youtu.be/xFP8Z1G6FfI"><button>link</button></form>
+                </div>  
+            </div>
+        </div>
+    </section>
+
+    <section id="caracteristicas">
+        <div class="container">
+            <ul>
+                <li>💥 Capacidad de entender la mente del otro</li>
+                <li>💥 Las capacidades cognitivas</li>
+                <li>💥 El echo de caminar erguidos</li>
+                <li>💥 El lenguaje</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="final">
+        <h2>Listo para ser mejor humano?</h2>
+        <h3>ENTRA AL LINK <br>⬇</h3>
+        <form action="https://youtu.be/TB-JQc0Fdpw"><button>Ahora es el momento</button>
+        </form>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; Programa_humanidad2023</p>
+        </div>
+    </footer>
+</body>
+</html>
